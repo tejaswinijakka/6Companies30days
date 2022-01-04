@@ -1,0 +1,4 @@
+Create a heap of size 10 and keep iterating over 10M entries. Whenever you encounter a number greater than the smallest number in the 
+heap (the head of the heap), remove the head of the heap and add the new number to the head. Worst case time complexit would be
+10M*log(10).
+
